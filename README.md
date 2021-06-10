@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi 👋, I'm Adi Kresna Kencana!</h2>
-<h4 align="left">I'm passionate about Web Developer</h4>
+<h4 align="left">I'm passionate about Android Developer</h4>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **adikresnakencana@gmail.com**
 
