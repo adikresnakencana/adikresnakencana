@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi 👋, I'm Adi Kresna Kencana!</h2>
-<h4 align="left">I'm passionate about Android Developer</h4>
+<h4 align="left">I'm passionate about Frontend Web Developer</h4>
 
 - 🌱 I’m currently learning **javascript**
 
