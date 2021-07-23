@@ -15,3 +15,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adikresnakencana&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="adikresnakencana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adikresnakencana&show_icons=true&theme=tokyonight&locale=en" alt="adikresnakencana" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adikresnakencana)](https://github.com/anuraghazra/github-readme-stats)
